@@ -10,8 +10,9 @@ export default function Footer() {
       <Section>
         <div className="brand container">
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis,
-            repudiandae.
+          Ice cream is a mixture of milk, cream, sugar, and sometimes 
+          other frozen ingredients 
+          into a soft, creamy flavor using special techniques
           </p>
           <ul>
             <li>
